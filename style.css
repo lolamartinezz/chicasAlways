@@ -15,4 +15,25 @@ h2 {
     font-weight: bold;
     unicode-bidi: isolate;
 }
+
+header{
+    background-color:pink;
+    padding: 10px 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    color: white;
+    margin: 0%;
+}
+  /modificamos el search/
+.search-form {
+	position: relative;
+	display: flex;
+	align-items: center;
+	border: 2px solid #fff;
+	border-radius: 1rem;
+	background-color: #fff;
+	height: 1.5rem;
+	overflow: hidden;
+}
   
