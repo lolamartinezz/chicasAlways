@@ -158,3 +158,19 @@ item:hover img{
   cursor: pointer;
     
 }
+footer {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    background-color: pink;
+    color: #fff;
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+footer h3{
+    text-align: center;
+}
