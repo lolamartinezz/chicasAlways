@@ -79,3 +79,16 @@ nav ul li a{
     font-size: 15px;
       
 }
+
+/hover modificar nuestros link de inicio/
+nav ul li a:hover{
+    text-decoration: underline;
+    color: white;
+  
+}
+
+.menu{
+    display: flex;
+    gap: 2rem;
+
+}
