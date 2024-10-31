@@ -80,7 +80,7 @@ nav ul li a{
       
 }
 
-/hover modificar nuestros link de inicio/
+/*hover modificar nuestros link de inicio*/
 nav ul li a:hover{
     text-decoration: underline;
     color: white;
@@ -100,4 +100,16 @@ nav ul li a:hover{
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+}
+
+.container-items{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    
+}
+.contenedor-cajas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
