@@ -52,3 +52,18 @@ header{
 .search-form input::-webkit-search-cancel-button {
 	appearance: none;
 }
+
+.search-form .btn-search {
+	border: none;
+	background-color: pink;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	padding: 1rem;
+}
+
+.btn-search i {
+	font-size: 1rem;
+	color: #fcf9f9;
+}
