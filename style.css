@@ -143,3 +143,18 @@ item:hover img{
     flex-direction: column;
     gap: 10px;
 }
+
+.price{
+    font-size: 18px;
+    font-weight: 900;
+}
+ 
+.info-product button{
+  border: none;
+  background: none;
+  background-color:pink;
+  color: white;  
+  padding: 15px 10px;
+  cursor: pointer;
+    
+}
