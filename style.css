@@ -132,3 +132,14 @@ nav ul li a:hover{
 .item figure{
     overflow: hidden;
 }
+item:hover img{
+    transform: scale(2.5);
+
+}
+.info-product{
+    padding: 15px 30px;
+    line-height: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
